@@ -36,3 +36,9 @@ html, body {
     transform-style: preserve-3d;
     /* transition: var(--transition) !important; */
 }
+@media (max-width: 550px) {
+    .slider__layer {
+        background-size: 230% 120%;
+         
+    }
+}
